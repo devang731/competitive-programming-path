@@ -6,3 +6,12 @@ This folder contains my implementations, lecture notes, and assignments from the
 - Recursive Backtracking
 - Memory Management & Pointers
 - Dynamic Data Structures (Trees, Graphs, Heaps)
+
+---
+## 📓 Daily Log  Date:7 april 2026
+
+### 📅 Day 1: Lecture 1 - The Philosophy of Abstraction
+- **Goal:** Understanding why C++ is used for high-performance systems.
+- **Key Takeaway:** Programming is about managing complexity through layers of abstraction.
+- **Status:** 🟢 Intro Finished.
+- **Code:** [Environment Test](./day1_env_test.cpp)
